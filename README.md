@@ -1,6 +1,29 @@
 # Major Project
  major project submitted in final semester
  
+ 
+ **DESCRIPTION OF PROJECT**
+ The project is based on _disease prediction system_.
+ 
+ It has two modules - 
+ 1. Heart attack prediction system
+ 2. Depression, Hypertension and Diabetes prediction system
+ 
+ The user will fill the respective fields provided to the user in the medical report.
+ The software will predict the chances of disease.
+ If chances of disease are higher, the software will suggest doctor for the same.
+ 
+ _FOR ANALYSIS_
+ 1. In heart attack prediciton, I have used _Logistic Regression_ with an accuracy of 0.88.
+ 2. In diabetes, hypertension and depression prediction, I have used _Random Forest Regressor_
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  **SNAPSHOTS OF THE PROJECT**
  
  ![Image of Diabetes](https://github.com/imakshit/Major-Project/blob/master/screen_shots/Diabetes.png)

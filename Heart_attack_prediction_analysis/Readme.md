@@ -33,36 +33,55 @@ The _dataset_ consists of 303 individuals data. There are 14 columns in the data
 
 **MODELS**
 1. SVM :
+
 Accuracy for training set for svm = 0.91701244813278
+
 Accuracy for test set for svm = 0.8360655737704918
 
+
 2. NAIVE BAYES :
+
 Accuracy for training set for Naive Bayes = 0.8547717842323651
+
 Accuracy for test set for Naive Bayes = 0.8524590163934426
+
 
 3. LOGISTIC REGRESSION :
 
 Accuracy for training set for Logistic Regression = 0.8547717842323651
+
 Accuracy for test set for Logistic Regression = 0.8852459016393442
 
+
 4. DECISION TREE :
+
 Accuracy for training set for Decision Tree = 1.0
+
 Accuracy for test set for Decision Tree = 0.7213114754098361
 
+
 5. RANDOM FOREST :
+
 Accuracy for training set for Random Forest = 0.991701244813278
+
 Accuracy for test set for Random Forest = 0.8032786885245902
 
+
 6. LIGHT GBM :
+
 Accuracy for training set for LightGBM = 0.983402489626556
+
 Accuracy for test set for LightGBM = 0.8688524590163934
 
+
 7. XGBOOST :
+
 Accuracy for training set for XGBoost = 0.970954356846473
+
 Accuracy for test set for XGBoost = 0.8524590163934426
 
 
-#CONCLUSION
+# CONCLUSION
 
 Heart Disease is one of the major concerns for society today. It is difficult to manually determine the odds of getting heart disease based on risk factors. However, machine learning techniques are useful to predict the output from existing data.
 

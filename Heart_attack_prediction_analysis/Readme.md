@@ -9,13 +9,13 @@ The _dataset_ consists of 303 individuals data. There are 14 columns in the data
 2. Sex: displays the gender of the individual using the following format : 1 = male 0 = female
 3. Chest-pain type: displays the type of chest-pain experienced by the individual using the following format : 
 
-1 = typical angina
+  1 = typical angina
 
-2 = atypical angina
+  2 = atypical angina
 
-3 = non — anginal pain 
+  3 = non — anginal pain 
 
-4 = asymptotic
+  4 = asymptotic
 
 4. Resting Blood Pressure: displays the resting blood pressure value of an individual in mmHg (unit)
 5. Serum Cholestrol: displays the serum cholesterol in mg/dl (unit)

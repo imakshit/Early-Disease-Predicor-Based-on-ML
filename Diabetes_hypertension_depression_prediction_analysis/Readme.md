@@ -51,7 +51,7 @@
   # CONCLUSION
   
   
-  Depression, Hypertension and Depression are main concern of society. It is difficult to analyse the risk of any of the mentioned         disease manually. We have designed a software based on real world dataset to analyse and predict the risk of any of the mentioned       three diseases based on various features and labels provided in dataset. 
+  Depression, Hypertension and Diabetes are main concern of society. It is difficult to analyse the risk of any of the mentioned         disease manually. We have designed a software based on real world dataset to analyse and predict the risk of any of the mentioned       three diseases based on various features and labels provided in dataset. 
   
   From the above analysis, we observe that RANDOM FOREST REGRESSOR is the best model for analysis giving an accuracy of 0.87 on           prediction.
 

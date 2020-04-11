@@ -3,6 +3,7 @@
  
  
  **DESCRIPTION OF PROJECT**
+ 
  The project is based on _disease prediction system_.
  
  It has two modules - 

@@ -11,7 +11,7 @@
 
 **Data Visualisation**
 
-[!image of frist](https://github.com/imakshit/Major-Project/blob/master/screen_shots/dhd_dv1.png)
+![image of first](https://github.com/imakshit/Major-Project/blob/master/screen_shots/dhd_dv1.png)
 
 
 [!image of second](https://github.com/imakshit/Major-Project/blob/master/screen_shots/dhd_dv2.png)

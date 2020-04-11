@@ -17,13 +17,13 @@
  _FOR ANALYSIS_
  1. In heart attack prediciton, I have used _Logistic Regression_ with an accuracy of 0.88.
  
- [Heart attack data analysis](https://github.com/imakshit/Major-Project/blob/master/Heart_attack_prediction_analysis/Heart_Attack_prediction.ipynb "Heart Attack Data Analysis")
+   Link to the analysis -  [Heart attack data analysis](https://github.com/imakshit/Major-Project/blob/master/Heart_attack_prediction_analysis/Heart_Attack_prediction.ipynb "Heart Attack Data Analysis")
 
 
  
  2. In diabetes, hypertension and depression prediction, I have used _Random Forest Regressor_
  
- [Diabetes Hypertension Depression Data Analysis](https://github.com/imakshit/Major-Project/blob/master/Diabetes_hypertension_depression_prediction_analysis/diabetes_hypertension_depression.ipynb "Data Analysis")
+   Link to the analysis -  [Diabetes Hypertension Depression Data Analysis](https://github.com/imakshit/Major-Project/blob/master/Diabetes_hypertension_depression_prediction_analysis/diabetes_hypertension_depression.ipynb "Data Analysis")
  
  
  

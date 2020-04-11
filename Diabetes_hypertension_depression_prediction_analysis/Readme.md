@@ -48,7 +48,7 @@
   
   
   
-  #CONCLUSION
+  # CONCLUSION
   
   
   Depression, Hypertension and Depression are main concern of society. It is difficult to analyse the risk of any of the mentioned         disease manually. We have designed a software based on real world dataset to analyse and predict the risk of any of the mentioned       three diseases based on various features and labels provided in dataset. 

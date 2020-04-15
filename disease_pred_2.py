@@ -263,7 +263,13 @@ class Ui_MainWindow(object):
         a = ans[0]
         b = ans[1]
         c = ans[2]
-        if(a>b and a>c):
+        if(a<20 and a>b and a>c):
+            self.textEdit15.setText("You have a low risk of DIABETES!")
+        elif(b<20 and b>c and b>a):
+            self.textEdit15.setText("You have a low risk of HYPERTENSION")
+        elif(c<20 and c>a and c>b):
+             self.textEdit15.setText("You have a low risk of DEPRESSION!")           
+        elif(a>b and a>c):
             #temp = a
             self.textEdit15.setText("You have a high risk of DIABETES!")
             
